@@ -1,0 +1,17 @@
+{
+  "name": "SQLFetcing",
+  "version": "1.0.0",
+  "description": "Fetching music from csv file, adding data to a mySQL Database",
+  "main": "ServerFetch.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "author": "Lasse Aakjær",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "mysql": "^2.16.0",
+    "node-fetch": "^2.3.0"
+  }
+}
