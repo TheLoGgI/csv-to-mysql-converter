@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "*",
     "mysql": "^2.16.0",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.7"
   }
 }
